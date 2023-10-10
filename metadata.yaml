@@ -1,0 +1,54 @@
+_repo: The-film-b-Its-use-in-popular-education_71747
+_version: 0.0.1
+contributor:
+  author_of_introductions:
+  - agent_name: Briscoe, Walter A. (Walter Alwyn)
+    birthdate: 1878
+    deathdate: 1934
+    gutenberg_agent_id: '56376'
+    url: http://www.gutenberg.org/2009/agents/56376
+  - agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Horatio Gilbert
+    - Parker, Gilbert, Sir, bart.
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: https://en.wikipedia.org/wiki/Sir_Gilbert_Parker,_1st_Baronet
+creator:
+  author:
+    agent_name: Jackson-Wrigley, M. (Maurice)
+    aliases:
+    - Jackson-Wrigley, Maurice
+    - Wrigley, Maurice Jackson
+    - Wrigley, M. Jackson
+    birthdate: 1886
+    deathdate: 1972
+    gutenberg_agent_id: '56375'
+    url: http://www.gutenberg.org/2009/agents/56375
+description: ''
+gutenberg_issued: '2023-09-27'
+identifiers:
+  gutenberg: '71747'
+  lccn: '22014277'
+language: en
+pgterms:marc904: https://archive.org/details/filmitsuseinpopu00jackiala/page/n5/mode/2up
+pgterms:marc905: 20220405233703wrigleyfla
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Charlene Taylor, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bGrafton & Co., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Coptic series
+subjects:
+- !lcsh 'Education'
+- !lcsh 'Motion pictures in education'
+- !lcc 'LB'
+- GITenberg
+title: 'The film : $b Its use in popular education'
+url: http://www.gutenberg.org/ebooks/71747
