@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '1285'
     url: http://www.gutenberg.org/2009/agents/1285
     wikipedia: https://en.wikipedia.org/wiki/Sir_Gilbert_Parker,_1st_Baronet
+covers:
+- cover_type: archival
+  image_path: 71747-h/images/cover.jpg
 creator:
   author:
     agent_name: Jackson-Wrigley, M. (Maurice)
@@ -28,6 +31,8 @@ creator:
     gutenberg_agent_id: '56375'
     url: http://www.gutenberg.org/2009/agents/56375
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71747#The-film-b-Its-use-in-popular-education
 gutenberg_issued: '2023-09-27'
 identifiers:
   gutenberg: '71747'
